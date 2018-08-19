@@ -29,6 +29,9 @@ cuando agregar funciones nuevas que son de prueba en tu codigo
 How do the diagrams help you visualize the branch structure?
 
 
+me ayudan a ver la estructura logica de las ramas
+
+
 What is the result of merging two branches together? 
 Why do we represent it in
 the diagram the way we do?
