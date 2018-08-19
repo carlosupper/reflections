@@ -1,0 +1,73 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+  
+
+it helps you save a lot of time
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+  
+
+saving the files of all their versions made
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    
+
+pros: keep a more precise control of the modifications made
+cons: none that recognize
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    
+
+because they think that in different commits you have better control
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    
+
+I don't know
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    
+
+knowing that I will not forget the parts that I am modifying
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    
+
+how the versions part works
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pros:keep a more precise control
+cons:I really think that none
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+because github is more developer oriented
+
+
+¿Cómo se pueden usar los comandos git log y git diff para ver el historial de archivos?
+git log para ver los commits hecho es un archivo 
+y con git diff ver la diferencias entre cada commit 
+
+
+¿De qué manera el uso del control de versiones te hace más seguro para realizar cambios que podrían romper algo?
+en que realmente puedes regresar a todas tus versiones viejas y darte cuenta de todo tu historial
+
+Ahora que tiene configurado su espacio de trabajo, ¿qué quiere probar con Git?
+quiero probar con un codigo
